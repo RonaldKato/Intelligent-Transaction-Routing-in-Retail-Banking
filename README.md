@@ -1,5 +1,6 @@
 Intelligent Transaction Routing in Retail Banking
 <img width="553" height="298" alt="pipeline" src="https://github.com/user-attachments/assets/3d5c1ca7-f489-43a9-b2b7-124eab72d252" />
+
 A reproducible, simulation-based framework for evaluating transaction-routing architectures in retail banking. The project compares traditional Transaction Switch, API Gateway, and Machine-Learning Hybrid (ML-Hybrid) routing using synthetic, industry-parameterized banking transactions.
 
 **Overview**
