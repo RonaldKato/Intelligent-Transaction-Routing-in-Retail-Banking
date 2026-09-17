@@ -230,14 +230,10 @@ To align the repository with the manuscript version, the following maintenance a
 These activities require repository write access. If write access is unavailable, the repository owner or an authorized collaborator must perform the commit and release operations.
 
 ## License
-
-Add the applicable project license here if one has been selected.
+N/A
 
 ## Citation
-
-If you use this repository or build upon its methodology, please cite the associated research manuscript.
-
-> Citation details should be added once the manuscript's final bibliographic information is available.
+N/A
 
 ---
 
